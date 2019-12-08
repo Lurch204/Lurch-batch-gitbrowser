@@ -14,4 +14,4 @@ Venom
 Yoda
 YouTube
 EZ Clean
-LazyMan Repo
+LazyMan
