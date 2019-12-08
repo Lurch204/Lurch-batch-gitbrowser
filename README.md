@@ -1,5 +1,5 @@
 # Lurch-batch-gitbrowser
-[b]Lurch's Kodi batch installer[/b] 
+Lurch's Kodi batch installer 
 Add-Ons Included:
 The Crew
 Exodus
