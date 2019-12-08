@@ -1,7 +1,7 @@
 #### Lurch-batch-gitbrowser
 # Lurch's Kodi batch installer 
 *Add-Ons Included:*
-- *The Crew8
+- *The Crew*
 - Exodus
 - Exodus Redux
 - Fen
