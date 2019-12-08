@@ -15,3 +15,4 @@ Yoda
 YouTube
 EZ Clean
 LazyMan
+Trakt
