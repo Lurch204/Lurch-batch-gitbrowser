@@ -21,4 +21,4 @@
 - EZ Clean
 - ***LazyMan***
 - ***Trakt***
-= ***Arctic Zephyr v2 Skin***
+- ***Arctic Zephyr v2 Skin***
