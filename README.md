@@ -10,9 +10,9 @@
 - SportsDevil
 - Tempest
 - The Magic Dragon
-- **Venom**
+- ***Venom***
 - Yoda
 - YouTube
 - EZ Clean
-- **LazyMan**
-- **Trakt**
+- ***LazyMan***
+- ***Trakt***
