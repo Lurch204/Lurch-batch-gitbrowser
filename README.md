@@ -1,6 +1,6 @@
 #### Lurch-batch-gitbrowser
 # Lurch's Kodi batch installer 
-##*Add-Ons Included:*
+## *Add-Ons Included:*
 - *The Crew*
 - Exodus
 - Exodus Redux
