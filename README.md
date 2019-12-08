@@ -1,7 +1,7 @@
 #### Lurch-batch-gitbrowser
 # Lurch's Kodi batch installer 
 *Add-Ons Included:*
-- **The Crew
+- *The Crew8
 - Exodus
 - Exodus Redux
 - Fen
@@ -10,9 +10,9 @@
 - SportsDevil
 - Tempest
 - The Magic Dragon
-- **Venom
+- *Venom*
 - Yoda
 - YouTube
 - EZ Clean
-- **LazyMan
-- **Trakt
+- *LazyMan*
+- *Trakt*
