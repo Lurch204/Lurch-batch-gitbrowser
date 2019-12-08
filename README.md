@@ -1,2 +1,2 @@
 # Lurch-batch-gitbrowser
-Kodi addon batch installer 
+Lurch's Kodi batch installer 
